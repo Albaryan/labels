@@ -1,0 +1,18 @@
+Red Light
+Green Light
+No Turn Left
+No Turn Right
+20 km/h Speed
+30 km/h Speed
+No Park
+No Entry
+Stop
+Station
+Park
+Turn Right
+Turn Left
+Go Straight or Turn Right
+Go Straight or Turn Left
+Closed to Traffic
+Max 20 km/h Speed
+Yayagecidi_mavi
