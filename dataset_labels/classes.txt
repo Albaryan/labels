@@ -1,9 +1,9 @@
-P-1 - Park Etmek Yasaktir
-TT-4 Girisi Olmayan Yol
-TT-26b Sola Donulmez
-TT-29a Hiz Siniri-30
-TT-2 Dur
-TT-29a Hiz Siniri-20
+Park Etmek Yasaktir
+Girisi Olmayan Yol
+Sola Donulmez
+Hiz Siniri-30
+Dur
+Hiz Siniri-20
 Yaya Gecidi
 Ileri Sag
 Yesil Isik
@@ -12,15 +12,15 @@ Kirmizi Isik
 Sari Isik
 Saga Donulmez
 Mecburi Sag
-Ileri Geri
+Gidis Donus
 Durak
 Donel Kavsak
 Park Yeri
 Ileri
 Mecburi Sol
-20
-21
-22
+Park Yapilmaz
+Park
+Engelli Park
 23
 24
 25
