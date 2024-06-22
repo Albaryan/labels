@@ -1,23 +1,23 @@
 P-1 - Park Etmek Yasaktir
 TT-4 Girisi Olmayan Yol
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
+TT-26b Sola Donulmez
+TT-29a Hiz Siniri-30
+TT-2 Dur
+TT-29a Hiz Siniri-20
+Yaya Gecidi
+Ileri Sag
+Yesil Isik
+Ileri Sol
+Kirmizi Isik
+Sari Isik
+Saga Donulmez
+Mecburi Sag
+Ileri Geri
+Durak
+Donel Kavsak
+Park Yeri
+Ileri
+Mecburi Sol
 20
 21
 22
@@ -49,5 +49,3 @@ TT-4 Girisi Olmayan Yol
 48
 49
 50
-
-
