@@ -74,4 +74,4 @@ Sonrasında README.md dosyasını açarak en altta kalan tabloyu kaldığınız 
 |  | Alper Tuna  | Ömer Berat Yıldırım | Ömer Çavdar |
 | ------------- | ------------- | ------------- | ------------- |
 | Sorumlu olduğu yer  | 0-3999  | 4000-7999  | 8000-11999  |
-| Kaldığı yer | 824 - ACAR-00101.jpg  | Başlanacak  | Başlanacak  |
+| Kaldığı yer | 1307 AITT-126.png  | Başlanacak  | Başlanacak  |
