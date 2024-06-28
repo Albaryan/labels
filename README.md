@@ -74,4 +74,4 @@ Sonrasında README.md dosyasını açarak en altta kalan tabloyu kaldığınız 
 |  | Alper Tuna  | Ömer Berat Yıldırım | Ömer Çavdar |
 | ------------- | ------------- | ------------- | ------------- |
 | Sorumlu olduğu yer  | 0-3999  | 4000-7999  | 8000-11999  |
-| Kaldığı yer | 1445 AITT-265.png  | Başlanacak  | 8100 |
+| Kaldığı yer | 1727 Alkanlar-32.JPG  | Başlanacak  | 8100 |
