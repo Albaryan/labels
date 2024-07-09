@@ -71,7 +71,14 @@ Sonrasında README.md dosyasını açarak en altta kalan tabloyu kaldığınız 
 
 (labelImg'i açtığınızda en üstte verinin kaçıncı veri olduğunun sayısı) - (verinin adı)
 
+<<<<<<< HEAD
 |  | Alper Tuna  | Ömer Berat Yıldırım | Ömer Çavdar |
 | ------------- | ------------- | ------------- | ------------- |
 | Sorumlu olduğu yer  | 0-3999  | 4000-7999  | 8000-11999  |
 | Kaldığı yer | 3030 BeeM-1145.jpg | 5001  | 8750 |
+=======
+|  | Alper Tuna  | Ömer Berat Yıldırım | Ömer Çavdar | Ayberk Sungurtaş |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Sorumlu olduğu yer  | 0-3999  | 4000-7999  | 8000-11999  | 12000-15999 |
+| Kaldığı yer | 3400 BeeM-4171.jpg | Başlanacak  | 8750 | Başlanacak |
+>>>>>>> 06713c80d1800cc5c53d2248a681a99e299b9e12
