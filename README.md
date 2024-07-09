@@ -77,5 +77,5 @@ Sonrasında README.md dosyasını açarak en altta kalan tabloyu kaldığınız 
 <<<<<<< HEAD
 | Kaldığı yer | 3030 BeeM-1145.jpg | Başlanacak  | 9750 | Başlanacak |
 =======
-| Kaldığı yer | 3400 BeeM-4171.jpg | Başlanacak  | 8750 | Başlanacak |
+| Kaldığı yer | 3400 BeeM-4171.jpg | Başlanacak  | 9750 | Başlanacak |
 >>>>>>> 06713c80d1800cc5c53d2248a681a99e299b9e12
