@@ -77,5 +77,5 @@ Sonrasında README.md dosyasını açarak en altta kalan tabloyu kaldığınız 
 <<<<<<< HEAD
 | Kaldığı yer | Bitirildi | Başlanacak  | 10703 | Başlanacak |
 =======
-| Kaldığı yer | Bitirildi| 6501 | 10000| 12000-13978|
+| Kaldığı yer | Bitirildi| 6501 | 11000| 12000-13978|
 >>>>>>> f227f461340742383245795fa6586e67bb3d6dee
