@@ -80,5 +80,9 @@ Sonrasında README.md dosyasını açarak en altta kalan tabloyu kaldığınız 
 |  | Alper Tuna  | Ömer Berat Yıldırım | Ömer Çavdar | Ayberk Sungurtaş |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Sorumlu olduğu yer  | 0-3999  | 4000-7999  | 8000-11999  | 12000-15999 |
+<<<<<<< HEAD
 | Kaldığı yer | 3400 BeeM-4171.jpg | Başlanacak  | 8750 | Başlanacak |
 >>>>>>> 06713c80d1800cc5c53d2248a681a99e299b9e12
+=======
+| Kaldığı yer | 3400 BeeM-4171.jpg | Başlanacak  | 9750 | Başlanacak |
+>>>>>>> a0f5f2af4f55bd250520e7041edddba6352bb9ff
