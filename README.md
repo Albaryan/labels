@@ -71,8 +71,11 @@ Sonrasında README.md dosyasını açarak en altta kalan tabloyu kaldığınız 
 
 (labelImg'i açtığınızda en üstte verinin kaçıncı veri olduğunun sayısı) - (verinin adı)
 
-
-| Sorumlular |   Alper Tuna  | Ömer Berat Yıldırım | Ömer Çavdar | Ayberk Sungurtaş |
+|  | Alper Tuna  | Ömer Berat Yıldırım | Ömer Çavdar | Ayberk Sungurtaş |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Sorumlu olduğu yer  | 0-3999  | 4000-7999  | 8000-11999  | 12000-15999 |
+<<<<<<< HEAD
 | Kaldığı yer | Bitirildi | Başlanacak  | 10703 | Başlanacak |
+=======
+| Kaldığı yer | Bitirildi| 6501 | 10000| 12000-13978|
+>>>>>>> f227f461340742383245795fa6586e67bb3d6dee
