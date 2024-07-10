@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic_sign_dataset</folder>
+	<filename>ITU_EV-Screenshot 2022-03-18 142015.jpg</filename>
+	<path>/home/omercavdar/Desktop/dataset/traffic_sign_dataset/ITU_EV-Screenshot 2022-03-18 142015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1358</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mecburi Sag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>592</xmin>
+			<ymin>230</ymin>
+			<xmax>656</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mecburi Sag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>232</ymin>
+			<xmax>900</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
